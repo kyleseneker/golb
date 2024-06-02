@@ -1,0 +1,5 @@
+{
+    "health_check_interval": "10s",
+    "frontend_port": "9090",
+    "backend_urls": ["http://localhost:8080", "http://localhost:8081"]
+  }
