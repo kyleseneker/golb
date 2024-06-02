@@ -53,7 +53,7 @@ The load balancer is configured using a JSON file. An example configuration (`co
     go run main.go
     ```
 
-Alternatively, you can build the binary and run it directly:
+    Alternatively, you can build the binary and run it directly:
 
     ```bash
     go build -o golb main.go
